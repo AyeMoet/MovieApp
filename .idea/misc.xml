@@ -1,0 +1,39 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../../layout/custom_preview.xml" value="0.10847628657921292" />
+        <entry key="app/src/main/res/drawable/background_back_button.xml" value="0.167" />
+        <entry key="app/src/main/res/drawable/background_genre_chip.xml" value="0.1775" />
+        <entry key="app/src/main/res/drawable/background_play_trailer.xml" value="0.167" />
+        <entry key="app/src/main/res/drawable/background_play_trainler.xml" value="0.1775" />
+        <entry key="app/src/main/res/drawable/background_rate_movie.xml" value="0.1775" />
+        <entry key="app/src/main/res/drawable/background_release_year.xml" value="0.1775" />
+        <entry key="app/src/main/res/drawable/gradient_actor.xml" value="0.1775" />
+        <entry key="app/src/main/res/drawable/gradient_banner.xml" value="0.1775" />
+        <entry key="app/src/main/res/drawable/ic_baseline_favorite_border_24.xml" value="0.1775" />
+        <entry key="app/src/main/res/drawable/ic_baseline_play_arrow_black_24.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable/view_holder_best_actor.xml" value="0.1775" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_movie_detail.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/activity_movie_details.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/activity_movie_search.xml" value="0.19157608695652173" />
+        <entry key="app/src/main/res/layout/view_holder_actor.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/view_holder_best_actor.xml" value="0.5892859196317369" />
+        <entry key="app/src/main/res/layout/view_holder_movie.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/view_holder_showcases.xml" value="0.48208224531533067" />
+        <entry key="app/src/main/res/layout/view_item_banner.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/view_pod_actor_list.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/view_pod_movie_list.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/menu/menu.xml" value="0.15520833333333334" />
+        <entry key="app/src/main/res/menu/menu_discover.xml" value="0.2947916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
